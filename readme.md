@@ -80,7 +80,7 @@
 - [x] [poj 3253](http://poj.org/problem?id=3253)
 
 ## 二叉搜索树
-- [ ] [poj 1577](http://poj.org/problem?id=1577)
+- [x] [poj 1577](http://poj.org/problem?id=1577)
 
 ## 位运算
 - [x] [poj 2309](http://poj.org/problem?id=2309)
