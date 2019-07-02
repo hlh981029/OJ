@@ -67,6 +67,7 @@
 - [ ] [poj 1173](http://poj.org/problem?id=1173)
 ## 优先队列
 - [x] [poj 2431](http://poj.org/problem?id=2431)
+- [x] [poj 3253](http://poj.org/problem?id=3253)
 
 
 - [ ] [poj xxxx](http://poj.org/problem?id=xxxx)
