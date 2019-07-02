@@ -16,6 +16,8 @@
     - [划分数](#%E5%88%92%E5%88%86%E6%95%B0)
     - [多重集组合数](#%E5%A4%9A%E9%87%8D%E9%9B%86%E7%BB%84%E5%90%88%E6%95%B0)
   - [优先队列](#%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97)
+  - [二叉搜索树](#%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91)
+  - [位运算](#%E4%BD%8D%E8%BF%90%E7%AE%97)
 
 ## 扫盲
 - [ ] 凸包
@@ -36,6 +38,7 @@
 - [x] [poj 3069](http://poj.org/problem?id=3069)
 - [x] [poj 3253](http://poj.org/problem?id=3253)
 - [ ] [poj 2376](http://poj.org/problem?id=2376)
+
 ## 深度优先搜索
 - [x] [poj 2386](http://poj.org/problem?id=2386)
 
@@ -47,27 +50,40 @@
 ### 背包
 #### 01背包
 - [x] [poj 3624](http://poj.org/problem?id=3624)
+
 #### 完全背包
 - [x] [poj 1384](http://poj.org/problem?id=1384)
 - [x] [poj 2063](http://poj.org/problem?id=2063)
+
 #### 多重背包
 - [x] [poj 1742](http://poj.org/problem?id=1742)
 - [ ] [poj 1276](http://poj.org/problem?id=1276)
+
 ### 最长公共子序列
 - [x] [poj 1458](http://poj.org/problem?id=1458)
+
 ### 最长上升子序列
 - [x] [poj 2533](http://poj.org/problem?id=2533)
 - [x] [poj 3903](http://poj.org/problem?id=3903)
 - [ ] [poj 1836](http://poj.org/problem?id=1836)
+
 ### 划分数
 - [x] [poj 1664](http://poj.org/problem?id=1664)
 - [ ] [poj 3181](http://poj.org/problem?id=3181)
+
 ### 多重集组合数
-- [ ] [poj 3046](http://poj.org/problem?id=3046)
+- [x] [poj 3046](http://poj.org/problem?id=3046)
 - [ ] [poj 1173](http://poj.org/problem?id=1173)
+
 ## 优先队列
 - [x] [poj 2431](http://poj.org/problem?id=2431)
 - [x] [poj 3253](http://poj.org/problem?id=3253)
+
+## 二叉搜索树
+- [ ] [poj 1577](http://poj.org/problem?id=1577)
+
+## 位运算
+- [x] [poj 2309](http://poj.org/problem?id=2309)
 
 
 - [ ] [poj xxxx](http://poj.org/problem?id=xxxx)
