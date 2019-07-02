@@ -18,6 +18,7 @@
   - [优先队列](#%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97)
   - [二叉搜索树](#%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91)
   - [位运算](#%E4%BD%8D%E8%BF%90%E7%AE%97)
+  - [并查集](#%E5%B9%B6%E6%9F%A5%E9%9B%86)
 
 ## 扫盲
 - [ ] 凸包
@@ -84,6 +85,9 @@
 
 ## 位运算
 - [x] [poj 2309](http://poj.org/problem?id=2309)
+
+## 并查集
+- [x] [poj 1182](http://poj.org/problem?id=1182)
 
 
 - [ ] [poj xxxx](http://poj.org/problem?id=xxxx)
